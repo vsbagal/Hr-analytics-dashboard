@@ -1,1 +1,2 @@
 # HR-analytics-dashboard
+Using this dashboard i was able to understand the employee attriation rate in the company. Using the different parmeters like years in company, education field, gendre and many more i have analyzed the given sample dataset of company. Dshboard returns the some key understandings too, as like most of the employees were leave company within first 2 years. Hr can interact with employees and try to understand the problem why should they are leaving the organization within short span years.
